@@ -1,0 +1,102 @@
+/* Add your preferred styles here */
+.body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #f80505;
+    color: #1816a3;
+    padding: 1rem;
+}
+
+.navbar{
+    color: #1816a3;
+}
+
+.header h1 {
+    margin: 0;
+}
+
+.nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.nav ul li a {
+    color: #d40d92;
+    text-decoration: none;
+}
+
+#hero {
+    background-image: url('hero-image.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #2dee5d;
+    text-align: center;
+    padding: 150px 0;
+}
+
+.hero-content h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.hero-content p {
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+.cta-btn {
+    display: inline-block;
+    background-color: #e74c3c;
+    color: #d4c21b;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+#about, #courses, #contact {
+    padding: 80px 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.container h2 {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+
+.container p {
+    text-align: center;
+    font-size: 18px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #5419c2;
+    color: #146db6;
+    text-align: center;
+    padding: 20px 0;
+}
+
